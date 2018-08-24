@@ -36,6 +36,7 @@ Libraries used:
 > library(servr)
 
 - Graphs analysis:
+
 > library(igraph), 
 > library(ggraph)
 
@@ -46,3 +47,5 @@ Libraries used:
 > library(LDAvis),
 > library(servr),
 > library(ggraph)
+
+Data base: https://www.kaggle.com/kaggle/hillary-clinton-emails Licence: CC0 1.0 Universal (CC0 1.0) 
